@@ -1,0 +1,21 @@
+body {
+    width: 620px;
+    height: 1200px;
+    padding-right: 80px;
+    padding-left: 80px;
+    padding-top: 10px;
+    border: rgb(0, 0, 0) 2px solid;
+    margin: 20px;
+    font: 100% sans-serif;
+}
+
+h2, h3 {
+    color:#2F9E44
+}
+
+h4 {
+    color: #1971C2;
+}
+
+
+
